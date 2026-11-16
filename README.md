@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="img/kt2" alt="Kathleen LaBeau" width="30%">
+</p>
 # Kelabeau.github.io
 My Professional Portfolio 
 
