@@ -2,7 +2,12 @@
   <img src="img/kt" alt="Kathleen LaBeau" width="30%">
 </p>
 <h1 align="center">Boozhoo, Kathleen indizhinikaaz</h1>
+<p align="center">
+  <strong>Mom - Student - Lumberjack Days Committee Member</strong>
 
-My Professional Portfolio 
+  <p align="center">
+    Anishinaabe Studies
+
+    My Professional Portfolio 
 
 My name is Kathleen LaBeau. I am in my last 2 semesters working towards an Associates in Anishinaabe Studies. I am actively involved in community events. In my spare time I spend time at home with my family and pets. I also enjoy reading and art project.
