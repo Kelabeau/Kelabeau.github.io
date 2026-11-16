@@ -1,7 +1,7 @@
 <p align="center">
   <img src="img/kt" alt="Kathleen LaBeau" width="30%">
 </p>
-# Kelabeau.github.io
+Kathleen LaBeau
 
 My Professional Portfolio 
 
