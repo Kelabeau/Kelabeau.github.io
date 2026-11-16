@@ -1,7 +1,7 @@
 <p align="center">
   <img src="img/kt" alt="Kathleen LaBeau" width="30%">
 </p>
-Kathleen LaBeau
+<h1 align="center">Boozhoo, Kathleen indizhinikaaz</h1>
 
 My Professional Portfolio 
 
