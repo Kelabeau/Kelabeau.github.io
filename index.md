@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="img/kt" alt="Kathleen LaBeau" width="30%">
+  <img src="img/kt" alt="Katie LaBeau" width="30%">
 </p>
-<h1 align="center">Boozhoo, Kathleen indizhinikaaz</h1>
+<h1 align="center">Boozhoo, Katie indizhinikaaz</h1>
 <p align="center">
   <strong>Mom - Student - Lumberjack Days Committee Member</strong>
 
