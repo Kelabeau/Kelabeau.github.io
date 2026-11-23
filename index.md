@@ -20,5 +20,5 @@ My name is Katie LaBeau. I am working towards an Associates in Anishinaabe Studi
   Continually seeking knowledge 
 
 <p align="center">
-<em>"If you talk to the animals, they will talk with you and you will know eachother. If you do not talk to them, you will not know them, and what you do not know, you will fear. What one fears, one destroys - Cheif Dan George, Tsleil-Waututh Nation"</em>
+<em>"If you talk to the animals, they will talk with you and you will know eachother. If you do not talk to them, you will not know them, and what you do not know, you will fear. What one fears, one destroys" - Cheif Dan George, Tsleil-Waututh Nation</em>
 
